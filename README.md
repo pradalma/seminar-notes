@@ -50,6 +50,12 @@ Corg : redfield ration determins how the elements are being used in the biol pro
 Export of the system:  3 modes 
 flux of particulate organic carbon
 mixing of dissolved organic carbon : LEAST WELL KNOWN PARTOF THE SYSTEMn accounts for 25%
-active transport of zoopolankton migration
+active transport of zoopolankton migration sediments traps too low estimates
+
+want to be able to determine ancp - carbon export from remote sensing measurements (satellite color, algorithms for ncp:npp ratio)
+
+Emerson 2014 compared estimates of terms in the bio pump at HOT, PAPA and BATS to satellite predictions and found they are close to being experimnetally determined at HOT and PAPA but not BATS
+
+Need to improve accuravy of in sity ANCP estimate from mass balance of metabolites O2 NO3 DIC to calibrate remote sensing
 
 ANCP = 3 modes of transport 
