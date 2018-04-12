@@ -49,7 +49,7 @@ Corg : redfield ration determins how the elements are being used in the biol pro
 
 Export of the system:  3 modes 
 flux of particulate organic carbon
-mixing of dissolved organic carbon
+mixing of dissolved organic carbon : LEAST WELL KNOWN PARTOF THE SYSTEMn accounts for 25%
 active transport of zoopolankton migration
 
 ANCP = 3 modes of transport 
